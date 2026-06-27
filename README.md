@@ -28,6 +28,7 @@ This is a collection of awesome things (preferably open source) to make your jou
 ## Documents
 
  - [DocumentCloud](https://www.documentcloud.org) - DocumentCloud is a catalog of primary source documents and a tool for annotating, organizing and publishing them on the web.
+ - [NoteRich](https://noterich.com) - AI-powered notes with built-in RAG search. Import and search across documents, 41 languages, free tier.
 
 ## Maps
 
